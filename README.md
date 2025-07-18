@@ -59,9 +59,9 @@ The **Employee Insights Dashboard** is an interactive Power BI solution designed
 
 For questions, support, or feedback:
 
-- **Owner:** [Your Name or Team Name]  
-- **Email:** [your.email@company.com]  
+- **Owner:** [Vaishnavi Shirsekar]  
+- **Email:** [vaishshirsekar@gmail.com]  
 - **Version:** 1.0  
-- **Last Updated:** [MM/YYYY]
+- **Last Updated:** [06/2025]
 
 ---
